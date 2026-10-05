@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Limpiar</title>
+  <path d="m9 39 24-26a6 6 0 0 1 9 0l13 13a6 6 0 0 1 0 9L36 55H16z" fill="#f1c66e" stroke="#74331f" stroke-linejoin="round" stroke-width="3.5"/>
+  <path d="m22 25 18 18M17 56h38" fill="none" stroke="#c3422d" stroke-linecap="round" stroke-width="4"/>
+</svg>

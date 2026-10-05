@@ -1,0 +1,23 @@
+[
+    {
+        "identificacion": 1001,
+        "nombre": "Derly Zambrano",
+        "usuario": "derly",
+        "contraseña": "admin123",
+        "rol": "Administrador"
+    },
+    {
+        "identificacion": 1002,
+        "nombre": "Usuario de Prueba",
+        "usuario": "prueba",
+        "contraseña": "1234",
+        "rol": "Empleado"
+    },
+    {
+        "identificacion": 1003,
+        "nombre": "Cliente de Prueba",
+        "usuario": "cliente",
+        "contraseña": "cliente123",
+        "rol": "Cliente"
+    }
+]

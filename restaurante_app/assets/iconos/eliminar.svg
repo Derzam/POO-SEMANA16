@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Eliminar</title>
+  <g fill="none" stroke="#74331f" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.5">
+    <path d="M15 18h34l-3 37H18z" fill="#f7e8c6"/>
+    <path d="M11 18h42M24 18v-6h16v6M26 27v19M38 27v19"/>
+    <path d="M8 8 56 56" stroke="#c3422d" stroke-width="5"/>
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+[
+    {
+        "codigo": "P001",
+        "nombre": "Hamburguesa clásica",
+        "categoria": "Platos fuertes",
+        "precio": 6.50,
+        "stock": 20
+    },
+    {
+        "codigo": "P002",
+        "nombre": "Jugo de naranja",
+        "categoria": "Bebidas",
+        "precio": 2.00,
+        "stock": 35
+    },
+    {
+        "codigo": "P003",
+        "nombre": "Ensalada César",
+        "categoria": "Entradas",
+        "precio": 4.25,
+        "stock": 0
+    }
+]
+

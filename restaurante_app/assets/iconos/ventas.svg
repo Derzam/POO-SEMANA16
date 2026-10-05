@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Ventas</title>
+  <g stroke="#74331f" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.5">
+    <path d="M15 8h34v48l-7-4-7 4-7-4-7 4-6-4z" fill="#f7e8c6"/>
+    <path d="M23 20h18M23 29h18M23 38h8" fill="none"/>
+    <circle cx="43" cy="42" r="8" fill="#e39b2d"/>
+    <path d="M43 37v10m3-8c0-2-6-2-6 0s6 2 6 4-6 2-6 0" fill="none" stroke="#fff8e8" stroke-width="1.8"/>
+  </g>
+</svg>

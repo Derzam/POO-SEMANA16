@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Editar</title>
+  <path d="m12 43 29-29 10 10-29 29-13 3z" fill="#f1c66e" stroke="#74331f" stroke-linejoin="round" stroke-width="3.5"/>
+  <path d="m37 18 10 10M12 43l10 10" fill="none" stroke="#c3422d" stroke-width="3.5"/>
+  <path d="m43 12 4-4a5 5 0 0 1 7 7l-3 4" fill="#c3422d" stroke="#74331f" stroke-width="3"/>
+</svg>
